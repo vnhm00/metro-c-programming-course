@@ -1,4 +1,9 @@
-//EX2 FLOATING ARRAY
+/*EX2 FLOATING ARRAY
+Write a program that defines a floating-point array of 12 elements.
+Ask user to enter yearly gross income. Then the program assigns values to the array so that
+elements 0-5 and 7-11 are assigned value that you get by diving gross income with 12.5.
+Element 6 is assigned value that you get from gross/12.5 * 1.5   */
+
 #include <stdio.h>
 
 int main()
