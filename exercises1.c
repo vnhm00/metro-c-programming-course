@@ -1,4 +1,10 @@
-//EX1 CALCULATE AVERAGE WITHOUT USING ARRAY
+/*EX1 CALCULATE AVERAGE WITHOUT USING ARRAY
+Do not use an array to hold numbers that user enters in this exercise!
+Write a program that calculates average of positive numbers that user enters.
+Program asks user to enter numbers and calculates the average of entered numbers when user enters 0 as the number.
+The zero is not included in the average. If user enters a negative number the program must print a
+message telling that only positive numbers are accepted and ignore the negative number. */
+
 #include <stdio.h>
 
 int main()
