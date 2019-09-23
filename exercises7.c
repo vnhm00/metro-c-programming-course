@@ -1,8 +1,8 @@
 /*EX7 converts all white space in a string to underscores
 Write a function that converts all white space in a string to underscores.
-Write a program that asks user to enter a string and then calls the function above. The program
-keeps asking for strings until user enters "stop" or "STOP". When user enters stop the program
-terminates */
+Write a program that asks user to enter a string and then calls the function above. 
+The program keeps asking for strings until user enters "stop" or "STOP". When user
+enters stop the program terminates */
 
 #include <string.h>
 #include <stdio.h>
